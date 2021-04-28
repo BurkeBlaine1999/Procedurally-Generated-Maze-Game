@@ -26,8 +26,8 @@ until there are eventually no elements left in the stack.
 
 ## Playing the game
 
-1) Download the [Build File](https://drive.google.com/file/d/1Cj9XqGRRVThX00QirjG52muzaP7VoCjF/view?usp=sharing) from my google Drive.
-2) Run 'Build.exe' to play the game.
+1) Download the [Package File](https://drive.google.com/file/d/1R97L_9xT5KJi4ILwg1XbSj52KS34SPoY/view?usp=sharing) from my google Drive.
+2) Import the asset into the unity editor
 3) Enjoy!
 
 ## Controls
