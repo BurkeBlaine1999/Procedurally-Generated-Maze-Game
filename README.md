@@ -22,7 +22,7 @@ until there are eventually no elements left in the stack.
 
 ## Playing the game
 
-1) Download the [Build File](https://drive.google.com/file/d/1hsVpUsfncC1pP3h0EU7GRSfeL_vMMEo8/view?usp=sharing) from my google Drive.
+1) Download the [Build File](https://drive.google.com/file/d/1Cj9XqGRRVThX00QirjG52muzaP7VoCjF/view?usp=sharing) from my google Drive.
 3) Run 'Build.exe' to play the game.
 4) Enjoy!
 
