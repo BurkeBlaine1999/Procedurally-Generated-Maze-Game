@@ -42,8 +42,8 @@ until there are eventually no elements left in the stack.
 
 ## prerequisites
 * The game require you in install Cinemachine from the unity package manager.
-* The game require you add the scenes to.
-* 
+* The game require you add the scenes to the build settings after importing.
+
 ## Versioning
 
 Version 1.0
