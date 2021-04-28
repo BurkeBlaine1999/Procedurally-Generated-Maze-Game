@@ -40,6 +40,10 @@ until there are eventually no elements left in the stack.
 
 [Unity Hub](https://unity3d.com/get-unity/download)
 
+## prerequisites
+* The game require you in install Cinemachine from the unity package manager.
+* The game require you add the scenes to.
+* 
 ## Versioning
 
 Version 1.0
