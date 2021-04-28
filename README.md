@@ -1,6 +1,10 @@
 # Escape The Maze
 
-Escape the maze is a 3D Unity game where the player must make their way through a procedurally generated maze to the finish line.
+Escape the maze is a 3D Unity game where the player must make their way through a procedurally generated maze to the finish line. 
+
+There are two game modes, the reglar mode in which the player must make their way to the finish line. Every time they reach the end the mazes width and height grows by 1. The can play as long as they want until they give up. Their highscore is displayed in the main menu area. Every level is different as the mazes are always randomly generated.
+
+The next game mode is practice where the player can specify the height and width of the maze and generate as many mazes as they want.
 
 ## How it works
 I used the recursive backtracker algorithm. It uses Depth first search to form the maze.
@@ -23,8 +27,12 @@ until there are eventually no elements left in the stack.
 ## Playing the game
 
 1) Download the [Build File](https://drive.google.com/file/d/1Cj9XqGRRVThX00QirjG52muzaP7VoCjF/view?usp=sharing) from my google Drive.
-3) Run 'Build.exe' to play the game.
-4) Enjoy!
+2) Run 'Build.exe' to play the game.
+3) Enjoy!
+
+## Controls
+* Use WSAD or the arrow keys to move.
+* Use the scroll wheel to zoom in and out.
 
 ## Built With
 
